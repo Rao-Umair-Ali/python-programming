@@ -1,0 +1,60 @@
+##------------------Assignment no 1-----------------
+##obtained_marks=int(input("Enter Obtained marks"))
+##total_marks=int(input("Enter Total marks"))
+##percentage =(obtained_marks/total_marks)*100
+##print(percentage)
+##
+##------------------Assignment no 2-----------------
+##r=int(input("give me a radius "))
+##pi=3.141592653589793238
+##circumferenceofcircle=2*pi*r
+##print("circumference of circle = ",circumferenceofcircle)
+##A=pi*(r**2)
+##print("Area of circle = ",A)
+##
+##------------------Assignment no 3-----------------
+##original_price=int(input("original_price"))
+##discounted_percentage=int(float(input("discounted_percentage")))
+##discounted_price=(discounted_percentage/100)*original_price
+##print("discounted price = " , discounted_price)
+##
+##------------------Assignment no 4-----------------
+##discounted_price=int(input("discounted_price"))
+##discounted_percentage=int(float(input("discounted_percentage")))
+##original_price=(discounted_price/discounted_percentage)*100
+##print(original_price)
+##
+##------------------Assignment no 5-----------------
+##volt=int(input("give me volt"))
+##ampere=int(input("give me ampere "))
+##p=volt*ampere
+##print(p)
+##------------------Assignment no 6-----------------
+##a=int(input("side a"))
+##b=int(input("side b"))
+##h=int(input("perpendicular distance "))
+##k=h*((a+b)/2)
+##print("Area of trapezoid ",k)
+##
+##------------------Assignment no 7-----------------
+##a=int(input("give me a number "))
+##if(a%2==0):
+##    print("even")
+##else:
+##    print("odd")
+##
+##------------------Assignment no 8-----------------
+##d=int(input("side a"))
+##a=float(d)
+##e=int(input("side b"))
+##b=float(e)
+##f=int(input("side c"))
+##c=float(f)
+##s=(a+b+c)/2
+##print("semiperimeter",s)
+##first=(s-a)
+##second=(s-b)
+##third=(s-c)
+##product=first*second*third
+##Areaoftriangle=product*s
+##print("Area of triangle",Areaoftriangle)
