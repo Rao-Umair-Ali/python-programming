@@ -58,3 +58,10 @@
 ##product=first*second*third
 ##Areaoftriangle=product*s
 ##print("Area of triangle",Areaoftriangle)
+##-----------------Assignment no 9------------------
+##x=int(input())
+##y=int(input())
+##if (x<=10 and x>=-10 and y<=10 and y>=-10):
+##    print("point on line")
+##else:
+##    print("point not line")
