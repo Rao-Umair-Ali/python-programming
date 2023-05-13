@@ -65,3 +65,34 @@
 ##    print("point on line")
 ##else:
 ##    print("point not line")
+####-----------------Assignment no 10------------------
+##a=int(input())
+##b=int(input())
+##i=2
+##while True:
+##    r1=a%i
+##    r2=b%i
+##    if(r1==0):
+##        if(r2==0):
+##            print(i)
+##    i+=1
+##  
+####-----------------Assignment no 11------------------
+##a=int(input("enter first number"))
+##b=int(input("enter second number "))
+##i=a
+##while i>=a and i<=b :
+##    if i%2==0:
+##        print(i)
+##    i+=1
+##    
+#write a program and takes 2 positive integer number from the user and prints all the common divisors.
+##User_input1 = int(input("Enter number: "))
+##User_input2 = int(input("Enter number: "))
+##common_divisor = []
+##for i in range(1,User_input1 + 1) and range(1,User_input2 + 1):
+##        if User_input1 % i == 0 and User_input2 % i == 0:
+##            common_divisor == i
+##            common_divisor.append(i)
+##            print(common_divisor)
+
