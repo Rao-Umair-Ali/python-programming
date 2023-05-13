@@ -96,17 +96,38 @@
 ##            common_divisor.append(i)
 ##            print(common_divisor)
 ####-----------------Assignment no 12------------------
-n=int(input())
-i=2
-a=True
-while i<n:
-    if n%i==0:
-        a=False
-        break
-    i+=1
-if a==False:
-    print("not prime ")
-else:
-    print("prime")
+##i=2
+##a=True
+##while i<n:
+##    if n%i==0:
+##        a=False
+##        break
+##    i+=1
+##if a==False:
+##    print("not prime ")
+##else:
+##    print("prime")
     
-
+####Write a python program that keeps taking numbers
+####from the user until presses enter-key without typing a number;
+####in such case, your program should print
+####sum of positive number , count of the negative number, zeros are to be ignored.
+####The program should print count of all input values as well
+######------------------Code of object 2-----------------------------------------------
+##count_negative=0
+##count_all=0
+##sum_positive=0
+##while True :
+##    s=input("give me any  integer number(press enter for final result )")
+##    if s=='' :
+##        break
+##    n=int(s)
+##    if n!=0:
+##        count_all+=1
+##    if n>0:
+##        sum_positive+=n 
+##    if n<0:
+##        count_negative+=1
+##print("sum of all positive number",sum_positive)
+##print("count of all negative number ",count_negative)
+##print("Count of all input number",count_all)
