@@ -95,4 +95,18 @@
 ##            common_divisor == i
 ##            common_divisor.append(i)
 ##            print(common_divisor)
+####-----------------Assignment no 12------------------
+n=int(input())
+i=2
+a=True
+while i<n:
+    if n%i==0:
+        a=False
+        break
+    i+=1
+if a==False:
+    print("not prime ")
+else:
+    print("prime")
+    
 
