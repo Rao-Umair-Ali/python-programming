@@ -1,3 +1,66 @@
+
+#---------------how to print any thing-------------
+#print("hello world")
+
+#---------------how to assign value ---------------
+#a=3
+#b=4
+
+#---------------how to convert assign value into integer and applu mathematical operation----------------
+
+#a=input()
+#c=float(a)
+#b=input()
+#d=float(b)
+#print(c+d)
+#print(c-d)
+#print(c*d)
+#print(c/d)
+
+#---------------How to show some thing when you want input
+
+#a=input("enter 1st value")
+#c=input("enter 2nd value")
+
+
+#----------------2nd way to convert string into integer------------
+
+#a=int(input())
+#b=int(input())
+
+#---------------percentage calculator-----------------
+
+#obtained_marks = int(input("Obtained marks"))
+#Total_marks = int(input("Total marks"))
+#percentage = (obtained_marks/Total_marks)*100
+#print("your percentage :" , percentage ,"%")
+
+
+#--------------discount percentage -------------------------
+
+#disprice=int(input("New price :"))
+#oldprice=int(input("old price :"))
+#discountedamount=(oldprice-disprice)
+#print("discounted amount :",discountedamount)
+#discountpercentage=(disprice/oldprice)*100
+#print("discountpercentage : ",discountpercentage"%")
+
+
+#-------------all mathematical operator----------
+#a=5
+#b=6
+#c=7
+#d=8
+#e=a*b+c-d/a+(c**2)
+#print(e)
+
+#-------------assignment number 3 ---------------
+##
+##discountsprice=int(input("disprice"))
+##discountpercent=int(input("d.p"))
+##oriinal=(discountsprice/discountpercent)*100
+##print(oriinal)
+
 ##------------------Assignment no 1-----------------
 ##obtained_marks=int(input("Enter Obtained marks"))
 ##total_marks=int(input("Enter Total marks"))
